@@ -10,3 +10,31 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.firstLight{
+    background-color: rgb(117, 11, 11);
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    border-radius: 100%;
+    border: solid 1px black;
+}
+.secondLight{
+    background-color: rgb(157, 112, 21);
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    border-radius: 50%;
+    border: solid 1px black;
+}
+
+.thirdLight{
+    background-color: rgb(14, 106, 14);
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    border-radius: 50%;
+    border: solid 1px black;
+}
+.barra{
+    border-radius: 0;
+}
