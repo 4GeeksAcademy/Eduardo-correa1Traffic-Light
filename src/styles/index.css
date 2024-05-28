@@ -27,6 +27,8 @@
     border: solid 1px black;
 }
 
+    
+
 .thirdLight{
     background-color: rgb(14, 106, 14);
     width: 75px;
@@ -38,3 +40,33 @@
 .barra{
     border-radius: 0;
 }
+
+.sombraRoja{
+    box-shadow: 0px 0px 9px 4px rgb(255, 19, 19);
+    background-color: red;
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    border-radius: 100%;
+    border: solid 1px black;
+}
+.sombraAmarilla{
+    box-shadow: 0px 0px 9px 4px rgb(235, 250, 23);
+    background-color: rgb(251, 247, 30);
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    border-radius: 100%;
+    border: solid 1px black;
+}
+
+.sombraVerde{
+    box-shadow: 0px 0px 9px 4px rgb(22, 248, 14);
+    background-color: rgb(30, 249, 15);
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    border-radius: 100%;
+    border: solid 1px black;
+}
+
