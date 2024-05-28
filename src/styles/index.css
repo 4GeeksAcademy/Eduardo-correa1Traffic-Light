@@ -39,6 +39,10 @@
 }
 .barra{
     border-radius: 0;
+    border: solid 1px black;
+}
+.semaforo{
+    border: solid 1px black;
 }
 
 .sombraRoja{
@@ -51,8 +55,8 @@
     border: solid 1px black;
 }
 .sombraAmarilla{
-    box-shadow: 0px 0px 9px 4px rgb(235, 250, 23);
-    background-color: rgb(251, 247, 30);
+    box-shadow: 0px 0px 9px 4px rgb(250, 167, 23);
+    background-color: rgb(251, 177, 30);
     width: 75px;
     height: 75px;
     margin: auto;
@@ -70,3 +74,12 @@
     border: solid 1px black;
 }
 
+html, body, #app {
+    background-image: url("https://st3.depositphotos.com/2704315/37650/v/450/depositphotos_376503420-stock-illustration-city-road-town-concept-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
